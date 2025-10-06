@@ -12,5 +12,7 @@ classified using RNN 1 and RNN 2, and the outputs from RNN 1 and RNN 2 are furth
 classified using MLP 1 and MLP 2, respectively. Finally, the outputs attained from
 MLP 1 and MLP 2 are averaged and the final classified output is obtained. At last, the
 superiority of the developed approach is proved on varied measures.
-Tyagi A, Singh P, Dev H., "Proposed spatio-temporal features for human activity classification using ensemble
+
+Original Paper : Tyagi A, Singh P, Dev H., "Proposed spatio-temporal features for human activity classification using ensemble
 classification model." Concurrency Computat Pract Exper. 2023;e7588. doi: 10.1002/cpe.7588
+Dataset: UCF101 Human Action Video.
